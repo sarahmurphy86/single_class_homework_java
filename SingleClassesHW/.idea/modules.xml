@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SingleClassesHW.iml" filepath="$PROJECT_DIR$/.idea/modules/SingleClassesHW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SingleClassesHW_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SingleClassesHW_main.iml" group="SingleClassesHW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SingleClassesHW_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SingleClassesHW_test.iml" group="SingleClassesHW" />
+    </modules>
+  </component>
+</project>
